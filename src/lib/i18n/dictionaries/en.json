@@ -1,0 +1,170 @@
+
+{
+  "metadata": {
+    "title": "BlueGateX | Secure Fintech, SaaS, & Multi-Platform Solutions",
+    "description": "UK-based software company specializing in financial technology, multi-platform apps, and SaaS systems for startups and enterprises.",
+    "domain": "bluegatex.co.uk"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "industries": "Industries",
+    "products": "Products",
+    "blog": "Blog",
+    "contact": "Contact Us",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "buttons": {
+    "requestDemo": "Request a Demo",
+    "viewOurWork": "View Our Work",
+    "learnMore": "Learn More",
+    "viewAll": "View All",
+    "submit": "Submit",
+    "applyNow": "Apply Now",
+    "sendMessage": "Send Message",
+    "bookConsultation": "Book a Consultation",
+    "viewCaseStudies": "View Case Studies"
+  },
+  "hero": {
+    "headline": "Build. Launch. Scale. Secure Fintech & SaaS products that empower businesses worldwide.",
+    "subtext": "BlueGateX Ltd is a UK-based software company specialized in financial technology, multi-platform apps, and SaaS systems. We design and develop secure payment platforms, digital wallets, open banking APIs, and scalable business software for startups and enterprises.",
+    "tagline": "We build apps that move markets."
+  },
+  "about": {
+    "title": "Who We Are",
+    "mission": "At BlueGateX, we believe technology should simplify finance — not complicate it.",
+    "description": "Our mission is to create secure, accessible, and intelligent digital solutions for the next generation of financial and SaaS innovation. From Flutter mobile apps to AI-driven web dashboards and open-banking integrations, we deliver end-to-end products with real business impact.",
+    "location": "Based in Bradford, United Kingdom — serving Europe & the MENA region."
+  },
+  "services": {
+    "title": "Our Core Services",
+    "items": [
+      {
+        "id": "fintech-solutions",
+        "title": "Fintech Solutions",
+        "description": "Digital wallets, payments, open banking (PIS/AIS), KYC/KYB verification."
+      },
+      {
+        "id": "saas-development",
+        "title": "SaaS Development",
+        "description": "Custom cloud-based business platforms and subscription systems."
+      },
+      {
+        "id": "mobile-web-apps",
+        "title": "Mobile & Web Apps",
+        "description": "Flutter-based apps that work across Android, iOS, web, and desktop."
+      },
+      {
+        "id": "backend-apis",
+        "title": "Backend & APIs",
+        "description": "Node.js / TypeScript, Firebase, PostgreSQL, secure scalable APIs."
+      },
+      {
+        "id": "ai-automation",
+        "title": "AI & Automation",
+        "description": "Intelligent analytics, data-driven dashboards, and process automation."
+      },
+      {
+        "id": "ui-ux-design",
+        "title": "UI/UX Design",
+        "description": "Modern, accessible, and conversion-focused interfaces."
+      }
+    ]
+  },
+  "fintech": {
+    "title": "Fintech Focus",
+    "description": "We specialize in building the backbone of modern financial services.",
+    "specialties": ["Payment Systems", "Digital Wallets", "Open Banking", "SaaS Platforms"]
+  },
+  "partners": {
+    "title": "APIs & Technologies We Master",
+    "logos": ["Stripe", "Paynetics", "Finexer", "Plaid", "TrueLayer"]
+  },
+  "products": {
+    "title": "Our Products",
+    "comingSoon": "Coming Soon",
+    "items": [
+      {
+        "name": "Layra Wallet",
+        "description": "A multi-currency wallet app for global remittances and payments."
+      },
+      {
+        "name": "Invoice AI",
+        "description": "Smart invoice and quotation generator for SMEs."
+      },
+      {
+        "name": "Muhtaj Platform",
+        "description": "Community marketplace app promoting giving and social support."
+      },
+      {
+        "name": "BlueGateX Pay",
+        "description": "Unified payments and open banking API for fintech startups.",
+        "isComingSoon": true
+      }
+    ]
+  },
+  "whyUs": {
+    "title": "Why Choose BlueGateX",
+    "points": [
+      {
+        "title": "UK-Registered & Compliant",
+        "description": "We are compliant with GDPR & FCA regulations, ensuring your data and operations are secure."
+      },
+      {
+        "title": "Proven Fintech Experience",
+        "description": "Our team has a track record of building successful fintech wallets and SaaS dashboards."
+      },
+      {
+        "title": "Agile Development Cycle",
+        "description": "We take your product from MVP to production-ready in weeks, not months."
+      },
+      {
+        "title": "End-to-End Security",
+        "description": "We prioritize encryption, authentication, and cloud compliance at every stage."
+      },
+      {
+        "title": "Multilingual Expertise",
+        "description": "We build solutions tailored for both English and Arabic-speaking markets."
+      },
+      {
+        "title": "Dedicated Support",
+        "description": "We provide ongoing maintenance and support to ensure your product's success."
+      }
+    ]
+  },
+  "industries": {
+      "title": "Industries We Serve",
+      "description": "We apply our technical expertise across a range of sectors to build tailored, high-impact solutions.",
+      "items": [
+          {"id": "fintech", "name": "Fintech", "description": "Innovating financial services with secure and scalable payment platforms, digital wallets, and open banking solutions."},
+          {"id": "edtech", "name": "EdTech", "description": "Enhancing learning experiences with interactive platforms, content management systems, and virtual collaboration tools."},
+          {"id": "healthtech", "name": "HealthTech", "description": "Improving patient outcomes with secure data management, telemedicine applications, and wellness tracking platforms."},
+          {"id": "saas", "name": "SaaS", "description": "Building powerful, scalable, and subscription-based software products that solve real business problems."}
+      ]
+  },
+  "cta": {
+    "title": "Let’s build something powerful together.",
+    "description": "Whether it’s a fintech wallet, SaaS platform, or full digital ecosystem — our team can help you go from idea to live product.",
+    "email": "info@bluegatex.co.uk"
+  },
+  "footer": {
+    "tagline": "Secure Fintech & SaaS products that empower businesses worldwide.",
+    "newsletter": "Subscribe to our newsletter",
+    "newsletterPlaceholder": "Your email address",
+    "newsletterButton": "Subscribe",
+    "companyNumber": "Company No: 16793977",
+    "rights": "All rights reserved."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "form": {
+        "name": "Name",
+        "email": "Email",
+        "company": "Company",
+        "message": "Message"
+    }
+  }
+}
